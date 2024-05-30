@@ -2,7 +2,7 @@
   "name": "ecomerce_web",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://FacuFyG.github.io/Ecommerce-React-Responsive/",
+  "homepage": "https://facufyg.github.io/Ecommerce-React-Responsive/",
   "type": "module",
   "scripts": {
     "dev": "vite",
